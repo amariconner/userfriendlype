@@ -1,0 +1,14 @@
+## Background
+
+Patient education (PE), which commonly consists of patient information leaflets (PILs) given to patients during care visits, is designed to be supplemental to patient-provider encounters. Patient education resources are also widely available on health organization websites, but the same concepts apply. These materials educate patients about a disease or treatment option, or give instructions following a healthcare visit. A useful leaflet should be easy to read for the general public and help a patient make informed decisions about their health and treatment options. A leaflet should also emphasize the most important factors to consider so that a patient remembers easily after reading. If a PIL meets these expectations, it can promote health literacy among patients.
+
+## Significance of Health Literacy
+
+Unfortunately, many patients are not able to understand and use these materials effectively, leading to noncompliance with medical recommendations. Common obstacles to health literacy and compliance include the lack of a shared perspective between healthcare providers and patients, and the lack of identification that a patient has with health information. Healthcare providers and technical writers who produce health information have the agency and moral duty to assess the needs of their patient audiences in an effort to promote compliance with medical guidelines.
+
+## Resources to Consult
+
+To write user-friendly PE matierials, I recommend consulting recommendations from a few reputable sources:
+
+-   The CDC
+-   The U.S. Department of Health and Human Services (HHS)

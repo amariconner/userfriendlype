@@ -1,0 +1,17 @@
+---
+title: "How to Make PE Accessible"
+---
+::: {.content-visible unless-format="pptx"}
+These are resources and recommendations to follow to promote user-friendly PE materials.
+
+::: 
+
+## Resources
+
+### ["Simply Put" CDC guide](https://www.cdc.gov/healthliteracy/pdf/simply_put.pdf)
+
+{{< include source_topics/resources/_cdc_simplyput.qmd >}}
+
+### [Health Literacy Online Guide from the U.S. HHS](https://health.gov/healthliteracyonline/)
+
+{{< include source_topics/resources/_HHS_guide.qmd >}}

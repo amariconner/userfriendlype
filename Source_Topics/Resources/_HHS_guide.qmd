@@ -1,0 +1,13 @@
+**Recommendation: Always use language that is familiar to your users.**
+
+* Avoid medical jargon
+* Use less technical word choices wherever possible, i.e., use *"cut"* as opposed to *"incision."*
+
+**Recommendation: Put the most important information first.**
+
+* If the audience needs to make a decision about getting a surgery, place the decision-making factors at the beginning of the document and procedural details at the bottom.
+
+**Recommendation: Think “need to know” vs. “nice to know”.**
+
+* Consider which technical details may not be useful to the audience.
+* Patient education is supposed to be supplemental; therefore, patients can seek more details from their primary care provider or specialists.

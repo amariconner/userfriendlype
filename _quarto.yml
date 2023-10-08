@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "User-Friendly PE"
+  navbar:
+    left:
+      - href: index.qmd
+        text: What is Patient Education?
+      - href: about.qmd
+        text: How to make PE accessible
+
+format:
+  html:
+    theme: lumen
+    css: styles.css
+    toc: true
+  pdf:
+    documentclass: report
+  docx: default
+  pptx: default
+    
+

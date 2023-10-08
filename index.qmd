@@ -1,0 +1,5 @@
+---
+title: "How to Write User-Friendly Patient Education"
+---
+
+{{< include source_topics/PE_Background/_PE_background.qmd >}}
